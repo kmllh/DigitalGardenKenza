@@ -1,3 +1,13 @@
+lesdag 3:
+Vandaag heb ik verder geoefend met HTML en CSS. Ik heb geleerd hoe je een webpagina beter leesbaar en overzichtelijk maakt door lettertypes, witruimte en kleuren aan te passen.
+Ook heb ik geleerd wat web-safe fonts zijn en hoe je met fontface zelf lettertypes kunt toevoegen aan een website.
+
+Daarna heb ik verschillende oefeningen gemaakt waarbij ik teksten en blokjes moest namaken met CSS. Ik heb geoefend met lettergroottes, kleuren en effecten. Ook heb ik mini-posters nagemaakt en geleerd hoe je met hover en transition ervoor zorgt dat blokjes veranderen als je er met je muis overheen gaat.
+
+Verder heb ik geleerd hoe je met CSS-variabelen zorgt dat je website overal dezelfde stijl heeft.
+
+Sommige onderdelen vond ik nog lastig, vooral het werken met verschillende CSS-properties, maar door de oefeningen begrijp ik steeds beter hoe je een website kunt vormgeven.
+
 lesdag 2:
 Vandaag heb ik geleerd hoe je schetsen maakt voor een website of app. We begonnen met het oefenen van rechte lijnen, vierkanten en telefoonvormen. Daarna heb ik Instagram nagetekend en gekeken hoe het menu werkt als je erop klikt.
 
