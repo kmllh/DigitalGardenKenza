@@ -1,3 +1,27 @@
+lesdag 4:
+Mijn onderwerp
+Voor mijn Digital Garden wil ik een website maken over Sanrio, vooral Hello Kitty. Ik ben al sinds kleins af aan fan en wil mijn interesse delen door informatie, afbeeldingen en interactieve onderdelen te gebruiken.
+
+Wat heb ik geleerd van de websites?
+
+1. Anne Cook: Deze website vond ik vrij simpel en statisch. Alles werkt en is overzichtelijk, maar er is weinig interactie. Daardoor vind ik de website niet heel webby.
+
+2. Meloland: Deze website vond ik interessanter door de animaties en interactieve elementen. Je kunt veel ontdekken door te klikken en te scrollen. Soms is de website wel onduidelijk en zijn de knoppen te klein.
+
+Wat wil ik zelf maken?
+Ik wil een schattige, speelse website maken met:
+
+- Verschillende Sanrio-personages en informatie.
+- Roze pastelkleuren, ronde vormen en speelse letters.
+- Afbeeldingen, hartjes en sterretjes.
+- Klikbare onderdelen, hover-effecten en kleine animaties.
+
+Welke webby elementen wil ik gebruiken?
+Ik wil vooral inspiratie halen uit Meloland. Bijvoorbeeld door personages te laten bewegen als je er met je muis overheen gaat of door extra informatie te tonen wanneer je erop klikt. Wel wil ik mijn website duidelijk en overzichtelijk houden.
+
+Ik wil zelf teksten schrijven over mijn favoriete Sanrio-personages en waarom ik al zo lang fan ben. Voor afbeeldingen wil ik bestaande Sanrio-afbeeldingen als inspiratie gebruiken. Ik wil een persoonlijke en nostalgische website maken waar bezoekers zelf dingen kunnen ontdekken. Tijdens dit project wil ik leren hoe ik met HTML, CSS en eventueel JavaScript een interactieve website kan bouwen.
+
+sprint1
 lesdag 3:
 Vandaag heb ik verder geoefend met HTML en CSS. Ik heb geleerd hoe je een webpagina beter leesbaar en overzichtelijk maakt door lettertypes, witruimte en kleuren aan te passen.
 Ook heb ik geleerd wat web-safe fonts zijn en hoe je met fontface zelf lettertypes kunt toevoegen aan een website.
