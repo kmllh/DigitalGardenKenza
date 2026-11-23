@@ -8,6 +8,11 @@ Wat heb ik geleerd van de websites?
 
 2. Meloland: Deze website vond ik interessanter door de animaties en interactieve elementen. Je kunt veel ontdekken door te klikken en te scrollen. Soms is de website wel onduidelijk en zijn de knoppen te klein.
 
+<p>
+  <img src="readme-images/websites-analyseren1.jpeg" width="300">
+  <img src="readme-images/websites-analyseren2.jpeg" width="300">
+</p>
+
 Wat wil ik zelf maken?
 Ik wil een schattige, speelse website maken met:
 
