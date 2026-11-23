@@ -1,3 +1,36 @@
+Practicum Light & Dark theme:
+Tijdens deze les heb ik geleerd hoe je met CSS een licht en donker thema kunt maken voor een website. We hebben hiervoor verschillende oefeningen gedaan in CodePen.
+
+Oefening 1 – Light & Dark 101
+
+Bij deze oefening heb ik gewerkt met CSS custom properties. Hiermee kun je kleuren instellen en hergebruiken. Ik heb geleerd hoe je met `light-dark()` verschillende kleuren kunt gebruiken voor een licht en donker thema. Ook heb ik geëxperimenteerd met kleuren en gradients.
+
+Oefening 2 – Twee thema's
+Bij deze oefening heb ik twee verschillende thema's gemaakt. Met de knoppen kun je wisselen tussen een licht en donker thema.
+Ik heb verschillende kleuren uitgeprobeerd om te zien hoe de website verandert.
+
+<p>
+  <img src="readme-images/light-theme.jpeg" width="300">
+  <img src="readme-images/images:dark-theme.jpeg" width="300">
+</p>
+
+light & Dark iconen
+
+Bij deze oefening heb ik gewerkt met SVG-iconen. Ik heb geleerd dat je de kleur van een icoon met CSS kunt aanpassen, zodat het bij het lichte of donkere thema past.
+
+<p>
+  <img src="readme-images/svg-icoon.jpeg" width="350">
+</p>
+
+Wat heb ik geleerd?
+
+- Hoe CSS custom properties werken.
+- Hoe je met `light-dark()` kleuren kunt veranderen.
+- Hoe je tussen een licht en donker thema kunt wisselen.
+- Hoe je SVG-iconen kunt aanpassen met CSS.
+
+Ik vond het interessant om te zien hoeveel verschil kleuren kunnen maken in het uiterlijk van een website.
+
 lesdag 4:
 Mijn onderwerp
 Voor mijn Digital Garden wil ik een website maken over Sanrio, vooral Hello Kitty. Ik ben al sinds kleins af aan fan en wil mijn interesse delen door informatie, afbeeldingen en interactieve onderdelen te gebruiken.
