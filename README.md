@@ -1,11 +1,24 @@
+Practicum Mooie kleuren en gradients:
+
+Tijdens dit practicum heb ik geleerd hoe je met CSS kleuren en gradients kunt maken. We hebben gewerkt met RGB, HSL en verschillende soorten gradients.
+In CodePen heb ik geoefend met kleurverlopen, patronen en het namaken van vormen met CSS.
+Ik heb geleerd hoe je met alleen CSS verschillende kleuren en effecten kunt maken.
+
+<p>
+  <img src="readme-images/aantekeningen1.jpeg" width="200">
+  <img src="readme-images/aantekeningen2.jpeg" width="200">
+  <img src="readme-images/gradients.jpeg" width="300">
+  <img src="readme-images/gradientvlag.jpeg" width="300">
+</p>
+
 Practicum Light & Dark theme:
+
 Tijdens deze les heb ik geleerd hoe je met CSS een licht en donker thema kunt maken voor een website. We hebben hiervoor verschillende oefeningen gedaan in CodePen.
 
-Oefening 1 – Light & Dark 101
-
+Oefening 1 – Light & Dark:
 Bij deze oefening heb ik gewerkt met CSS custom properties. Hiermee kun je kleuren instellen en hergebruiken. Ik heb geleerd hoe je met `light-dark()` verschillende kleuren kunt gebruiken voor een licht en donker thema. Ook heb ik geëxperimenteerd met kleuren en gradients.
 
-Oefening 2 – Twee thema's
+Oefening 2 – Twee thema's:
 Bij deze oefening heb ik twee verschillende thema's gemaakt. Met de knoppen kun je wisselen tussen een licht en donker thema.
 Ik heb verschillende kleuren uitgeprobeerd om te zien hoe de website verandert.
 
@@ -14,8 +27,7 @@ Ik heb verschillende kleuren uitgeprobeerd om te zien hoe de website verandert.
   <img src="readme-images/images:dark-theme.jpeg" width="300">
 </p>
 
-light & Dark iconen
-
+light & Dark iconen:
 Bij deze oefening heb ik gewerkt met SVG-iconen. Ik heb geleerd dat je de kleur van een icoon met CSS kunt aanpassen, zodat het bij het lichte of donkere thema past.
 
 <p>
