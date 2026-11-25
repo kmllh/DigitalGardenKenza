@@ -1,4 +1,10 @@
-Practicum Mooie kleuren en gradients:
+### Feedback voortgangsgesprek vrijdag
+
+Tijdens het voortgangsgesprek kreeg ik als feedback dat ik mijn visual research verder moet uitbreiden. Ik kan hiervoor inspiratie halen uit mijn eigen kamer en oude foto's van vroeger, zodat mijn onderwerp persoonlijker wordt. Daarnaast kan ik meer experimenteren met abstracte beelden, vormen en kleuren die passen bij de sfeer die ik wil creëren.
+
+Ook kreeg ik als aandachtspunt dat ik mijn README goed moet blijven bijhouden. Hierin moet ik mijn voortgang, gemaakte opdrachten en keuzes blijven documenteren.
+
+### Practicum Mooie kleuren en gradients:
 
 Tijdens dit practicum heb ik geleerd hoe je met CSS kleuren en gradients kunt maken. We hebben gewerkt met RGB, HSL en verschillende soorten gradients.
 In CodePen heb ik geoefend met kleurverlopen, patronen en het namaken van vormen met CSS.
@@ -11,7 +17,7 @@ Ik heb geleerd hoe je met alleen CSS verschillende kleuren en effecten kunt make
   <img src="readme-images/gradientvlag.jpeg" width="300">
 </p>
 
-Practicum Light & Dark theme:
+### Practicum Light & Dark theme:
 
 Tijdens deze les heb ik geleerd hoe je met CSS een licht en donker thema kunt maken voor een website. We hebben hiervoor verschillende oefeningen gedaan in CodePen.
 
@@ -43,7 +49,8 @@ Wat heb ik geleerd?
 
 Ik vond het interessant om te zien hoeveel verschil kleuren kunnen maken in het uiterlijk van een website.
 
-lesdag 4:
+### lesdag 4:
+
 Mijn onderwerp
 Voor mijn Digital Garden wil ik een website maken over Sanrio, vooral Hello Kitty. Ik ben al sinds kleins af aan fan en wil mijn interesse delen door informatie, afbeeldingen en interactieve onderdelen te gebruiken.
 
@@ -71,8 +78,10 @@ Ik wil vooral inspiratie halen uit Meloland. Bijvoorbeeld door personages te lat
 
 Ik wil zelf teksten schrijven over mijn favoriete Sanrio-personages en waarom ik al zo lang fan ben. Voor afbeeldingen wil ik bestaande Sanrio-afbeeldingen als inspiratie gebruiken. Ik wil een persoonlijke en nostalgische website maken waar bezoekers zelf dingen kunnen ontdekken. Tijdens dit project wil ik leren hoe ik met HTML, CSS en eventueel JavaScript een interactieve website kan bouwen.
 
-sprint1
-lesdag 3:
+### sprint1
+
+### lesdag 3:
+
 Vandaag heb ik verder geoefend met HTML en CSS. Ik heb geleerd hoe je een webpagina beter leesbaar en overzichtelijk maakt door lettertypes, witruimte en kleuren aan te passen.
 Ook heb ik geleerd wat web-safe fonts zijn en hoe je met fontface zelf lettertypes kunt toevoegen aan een website.
 
@@ -82,7 +91,8 @@ Verder heb ik geleerd hoe je met CSS-variabelen zorgt dat je website overal deze
 
 Sommige onderdelen vond ik nog lastig, vooral het werken met verschillende CSS-properties, maar door de oefeningen begrijp ik steeds beter hoe je een website kunt vormgeven.
 
-lesdag 2:
+### lesdag 2:
+
 Vandaag heb ik geleerd hoe je schetsen maakt voor een website of app. We begonnen met het oefenen van rechte lijnen, vierkanten en telefoonvormen. Daarna heb ik Instagram nagetekend en gekeken hoe het menu werkt als je erop klikt.
 
 Ik heb geleerd hoe je met pijlen, kleuren en stippellijnen interacties kunt laten zien. Ook heb ik geleerd dat een schets niet perfect hoeft te zijn, zolang je idee maar duidelijk is.
@@ -100,7 +110,8 @@ Hieronder staan de schetsen die ik tijdens de les heb gemaakt.
   <img src="readme-images/vergelijkenschets.jpeg" width="450">
 </p>
 
-lesdag 1:
+### lesdag 1:
+
 Ik heb vandaag geleerd dat een source hosting platform een website is waar je de bestanden en code van je eigen website kunt opslaan en beheren. Je kunt er ook wijzigingen aanbrengen.
 Ik heb gekozen voor GitHub, omdat ik hier eerder mee heb gewerkt.
 
