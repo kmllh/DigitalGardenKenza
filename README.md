@@ -1,3 +1,9 @@
+### Practicum Grid 101 + Media Queries 101
+
+Tijdens dit practicum heb ik geleerd hoe CSS Grid werkt en hoe je hiermee een website kunt indelen in rijen en kolommen. Ook heb ik geleerd hoe je met media queries de lay-out kunt aanpassen aan verschillende schermformaten.
+
+We hebben geoefend met verschillende CSS-properties en hoe je onderdelen op de juiste plek kunt zetten. Dit kan ik later gebruiken om mijn Digital Garden responsive te maken.
+
 ### lesdag 6(voortgang):
 
 Ik heb feedback gekregen op mijn mobile-first schets en de eerste HTML-opzet van mijn Digital Garden. Ik moet vooral letten op de structuur van mijn HTML en hoe ik mijn schets ga omzetten naar een echte website. Ook moet ik verder werken aan de vormgeving en mijn README blijven bijhouden.
@@ -13,7 +19,7 @@ Ik heb feedback gekregen op mijn mobile-first schets en de eerste HTML-opzet van
 2. Waar gaat mijn Digital Garden over?
    Mijn Digital Garden gaat over mijn liefde voor Sanrio, vooral Hello Kitty, en waarom ik dit al sinds mijn kindertijd leuk vind. Ik wil dit laten zien met persoonlijke foto's, afbeeldingen, tekst, roze kleuren en leuke animaties.
 3. Welk idee uit mijn Crazy 8 wil ik uitwerken?
-   Ik wil graag het idee van een oude computer met roze vensters verder uitwerken, omdat dit goed past bij mijn Y2K-stijl. Bezoekers kunnen op verschillende vensters klikken om mijn foto's, favoriete Sanrio-characters en persoonlijke verhalen te bekijken.
+   Ik wil graag het idee van een oude computer met roze vensters verder uitwerken, omdat dit goed past bij mijn Y2K-stijl. Bezoekers kunnen op verscOpdracht 21 – Verhoudingen & Gridhillende vensters klikken om mijn foto's, favoriete Sanrio-characters en persoonlijke verhalen te bekijken.
 
 <p>
   <img src="readme-images/crazy8.jpeg" width="300">
