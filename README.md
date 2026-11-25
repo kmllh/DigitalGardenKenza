@@ -1,3 +1,11 @@
+### lesdag 6(voortgang):
+
+Ik heb feedback gekregen op mijn mobile-first schets en de eerste HTML-opzet van mijn Digital Garden. Ik moet vooral letten op de structuur van mijn HTML en hoe ik mijn schets ga omzetten naar een echte website. Ook moet ik verder werken aan de vormgeving en mijn README blijven bijhouden.
+
+<p>
+  <img src="readme-images/schetshtmlcode.png" width="300">
+  <img src="readme-images/schetshtmlresultaat.png" width="300">
+</p>
 ### lesdag 5(voortgang):
 
 1. Waar werkt Visual Research naartoe?
