@@ -1,3 +1,18 @@
+### lesdag 5(voortgang):
+
+1. Waar werkt Visual Research naartoe?
+   Met Visual Research onderzoek je in drie stappen welke sfeer je wilt creëren. Je verzamelt inspiratiebeelden, kijkt welke kenmerken je aanspreken en vertaalt deze naar kleuren, vormen en ideeën voor je eigen ontwerp.
+2. Waar gaat mijn Digital Garden over?
+   Mijn Digital Garden gaat over mijn liefde voor Sanrio, vooral Hello Kitty, en waarom ik dit al sinds mijn kindertijd leuk vind. Ik wil dit laten zien met persoonlijke foto's, afbeeldingen, tekst, roze kleuren en leuke animaties.
+3. Welk idee uit mijn Crazy 8 wil ik uitwerken?
+   Ik wil graag het idee van een oude computer met roze vensters verder uitwerken, omdat dit goed past bij mijn Y2K-stijl. Bezoekers kunnen op verschillende vensters klikken om mijn foto's, favoriete Sanrio-characters en persoonlijke verhalen te bekijken.
+
+<p>
+  <img src="readme-images/crazy8.jpeg" width="300">
+  <img src="readme-images/mobilephoneschets1.jpeg" width="180">
+  <img src="readme-images/mobilephoneschets2.jpeg" width="180">
+</p>
+
 ### Feedback voortgangsgesprek vrijdag
 
 Tijdens het voortgangsgesprek kreeg ik als feedback dat ik mijn visual research verder moet uitbreiden. Ik kan hiervoor inspiratie halen uit mijn eigen kamer en oude foto's van vroeger, zodat mijn onderwerp persoonlijker wordt. Daarnaast kan ik meer experimenteren met abstracte beelden, vormen en kleuren die passen bij de sfeer die ik wil creëren.
