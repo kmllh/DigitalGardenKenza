@@ -11,6 +11,7 @@
   <img src="readme-images/crazy8.jpeg" width="300">
   <img src="readme-images/mobilephoneschets1.jpeg" width="180">
   <img src="readme-images/mobilephoneschets2.jpeg" width="180">
+  <img src="readme-images/styleguide1.jpeg" width="300">
 </p>
 
 ### Feedback voortgangsgesprek vrijdag
