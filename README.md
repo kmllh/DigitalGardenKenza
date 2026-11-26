@@ -1,3 +1,11 @@
+### lesdag 8:
+
+Tijdens deze les heb ik geleerd over verschillende ontwerpprincipes, zoals contrast, witruimte, hiërarchie en de Gestaltprincipes. Ik heb geleerd hoe je hiermee een website overzichtelijker en gebruiksvriendelijker kunt maken.
+
+Ook heb ik geleerd dat een grid zorgt voor structuur en eenheid, maar dat je binnen een grid nog steeds creatief kunt zijn met de indeling.
+
+Voor mijn Sanrio Digital Garden wil ik vooral meer witruimte gebruiken en het contrast verbeteren, zodat mijn tekst beter leesbaar is en mijn website minder druk wordt. Ook wil ik mijn afbeeldingen en kaartjes beter uitlijnen met een grid.
+
 ### lesdag 7:
 
 ### 1. Wanneer wordt een website 'lelijk' en hoe kun je dit oplossen?
