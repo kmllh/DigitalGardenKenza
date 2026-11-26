@@ -4,60 +4,103 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>My Sanrio Digital Garden</title>
+    <link rel="stylesheet" href="css/schets.css" />
   </head>
 
   <body>
-    <header>
-      <h1>My Sanrio Digital Garden ♡</h1>
+    <header id="home" class="window">
+      <div class="window-bar">☆ ♡ <span>□ □ ×</span></div>
 
-      <nav>
-        <a href="#home">Home</a>
-        <a href="#characters">Characters</a>
-        <a href="#inspiratie">Inspiratie</a>
-        <a href="#about">About</a>
-      </nav>
+      <div class="header-content">
+        <h1>My Sanrio<br />Digital Garden ♡</h1>
+        <img src="sanrio-images/hello-kitty.png" alt="Hello Kitty" />
+      </div>
     </header>
 
-    <main id="home">
+    <nav class="slider-nav">
+      <span class="slider-highlight"></span>
+
+      <a href="#home">Home</a>
+      <a href="#characters">Characters</a>
+      <a href="#inspiratie">Inspiratie</a>
+      <a href="#about">About</a>
+    </nav>
+
+    <main>
       <section id="characters">
         <h2>Characters ♡</h2>
 
-        <ul>
-          <li><a href="#melody">My Melody</a></li>
-          <li><a href="#kuromi">Kuromi</a></li>
-          <li><a href="#cinnamoroll">Cinnamoroll</a></li>
+        <ul class="character-grid">
+          <li class="window">
+            <div class="window-bar">♡ <span>□ ×</span></div>
+            <a href="#melody">
+              <img src="sanrio-images/mymelody.png" alt="My Melody" />
+              <p>My Melody</p>
+              <span>›</span>
+            </a>
+          </li>
+
+          <li class="window">
+            <div class="window-bar">♡ <span>□ ×</span></div>
+            <a href="#kuromi">
+              <img src="sanrio-images/kuromi.png" alt="Kuromi" />
+              <p>Kuromi</p>
+              <span>›</span>
+            </a>
+          </li>
+
+          <li class="window">
+            <div class="window-bar">♡ <span>□ ×</span></div>
+            <a href="#cinnamoroll">
+              <img src="sanrio-images/cinnamoroll.png" alt="Cinnamoroll" />
+              <p>Cinnamoroll</p>
+              <span>›</span>
+            </a>
+          </li>
         </ul>
       </section>
 
-      <section id="kuromi">
-        <h2>Kuromi ♡</h2>
+      <section id="kuromi" class="window">
+        <div class="window-bar">Kuromi ♡ <span>□ □ ×</span></div>
 
-        <img src="images/kuromi.png" alt="Kuromi" />
+        <div class="kuromi-content">
+          <img src="sanrio-images/kuromi.png" alt="Kuromi" />
 
-        <p>Kuromi heeft een stoere maar ook schattige uitstraling.</p>
+          <div>
+            <h2>Kuromi</h2>
+            <p>Kuromi heeft een stoere maar ook schattige uitstraling.</p>
 
-        <ul>
-          <li>Stoer</li>
-          <li>Eigenwijs</li>
-          <li>Schattig</li>
-        </ul>
+            <ul>
+              <li>♡ stoer</li>
+              <li>♡ eigenwijs</li>
+              <li>♡ schattig</li>
+            </ul>
+          </div>
+        </div>
       </section>
 
       <section id="inspiratie">
-        <h2>Mijn inspiratie ♡</h2>
+        <h2>Inspiratie ♡</h2>
 
-        <p>Ik hou van roze, bloemen, strikjes en de Y2K stijl.</p>
-
-        <img src="images/inspiratie.png" alt="Mijn inspiratie" />
+        <div class="collage">
+          <img src="sanrio-images/bloemen.png" alt="Roze bloemen" />
+          <img src="sanrio-images/y2k.png" alt="Y2K inspiratie" />
+          <img src="sanrio-images/strikje.png" alt="Roze strikje" />
+        </div>
       </section>
 
-      <section id="about">
-        <h2>About me ♡</h2>
+      <section id="about" class="window">
+        <div class="window-bar">About me ♡ <span>□ □ ×</span></div>
 
-        <p>
-          Ik hou al van Hello Kitty sinds ik klein was. Daarom wilde ik mijn
-          Digital Garden over Sanrio maken.
-        </p>
+        <div class="about-content">
+          <img src="sanrio-images/vroeger.jpg" alt="Foto van vroeger" />
+
+          <p>
+            Ik hou al van Hello Kitty sinds ik klein was. Daarom wilde ik mijn
+            Digital Garden over Sanrio maken. De roze kleuren en schattige
+            characters passen bij mijn stijl.
+          </p>
+        </div>
       </section>
     </main>
   </body>

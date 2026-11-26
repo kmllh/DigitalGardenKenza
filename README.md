@@ -1,3 +1,30 @@
+### lesdag 7:
+
+### 1. Wanneer wordt een website 'lelijk' en hoe kun je dit oplossen?
+
+Een website wordt lelijk als je het scherm kleiner of groter maakt en de onderdelen niet meer goed passen. Bijvoorbeeld als tekst buiten een vak valt, afbeeldingen te groot worden of er te weinig ruimte tussen onderdelen zit.
+Dit kun je oplossen met **CSS Grid, media queries en flexibele afmetingen**, zodat de website zich aanpast aan verschillende schermgroottes.
+
+### 2. Welke volgende stap neem ik om mijn website responsive te maken?
+
+Mijn Sanrio Digital Garden is al deels responsive. Ik heb media queries gebruikt om mijn character-kaartjes en andere onderdelen anders in te delen op mobiel en desktop.
+Mijn volgende stap is om de echte afbeeldingen toe te voegen en te controleren of alles goed past op verschillende schermgroottes. Ook wil ik mijn inspiratiecollage verder responsive maken.
+
+### 3. Kan ik het ontwerp en de bouw van mijn eigen Garden onderbouwen met Webby-vocabulaire?
+
+- Ik heb mijn Digital Garden eerst ontworpen met een **wireframe**. Daarna heb ik de structuur gemaakt met HTML en de vormgeving met CSS.
+
+- Ik gebruik **CSS Grid** voor de indeling, **custom properties** voor mijn kleuren en **media queries** om mijn website responsive te maken.
+
+- Ik werk **mobile-first**, wat betekent dat ik eerst de mobiele versie maak en daarna de layout aanpas voor grotere schermen.
+
+- Mijn ontwerp heeft een roze Y2K-stijl met Sanrio-characters, afgeronde hoeken en een interactieve navigatiebalk.
+
+<p>
+  <img src="readme-images/schetsgrotescherm.jpeg" width="350">
+  <img src="readme-images/schetskleinescherm.jpeg" width="350">
+</p>
+
 ### Practicum Grid 101 + Media Queries 101
 
 Tijdens dit practicum heb ik geleerd hoe CSS Grid werkt en hoe je hiermee een website kunt indelen in rijen en kolommen. Ook heb ik geleerd hoe je met media queries de lay-out kunt aanpassen aan verschillende schermformaten.
